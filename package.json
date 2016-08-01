@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidrivera/waterlock-facebook-auth"
+    "url": "https://github.com/brili/waterlock-facebook-auth"
   },
   "keywords": [
     "facebook",
@@ -19,7 +19,7 @@
   "dependencies" : {
     "request": "*",
     "lodash": "2.4.1"
-  }, 
+  },
   "devDependencies":{
     "mocha": "*",
     "should": "*",
@@ -31,7 +31,7 @@
   "author": "David Rivera <david.r.rivera193@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidrivera/waterlock-facebook-auth/issues"
+    "url": "https://github.com/brili/waterlock-facebook-auth/issues"
   },
-  "homepage": "https://github.com/davidrivera/waterlock-facebook-auth"
+  "homepage": "https://github.com/brili/waterlock-facebook-auth"
 }
